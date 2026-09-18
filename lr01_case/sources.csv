@@ -1,1 +1,4 @@
 source_id,claim,source_title,publisher,url,pub_date,accessed
+SRC-01	A History of the Introduction and Shut Down of Therac-25	https://onlineethics.virginia.edu/cases/therac-25/history-introduction-and-shut-down-therac-25	2003	2026-09-17
+SRC-02	An Investigation of the Therac-25 Accidents 	https://web.stanford.edu/class/archive/cs/cs295/cs295.1086/papers/Therac-25.pdf	July 1993 (згідно роздруківки)	2026-09-17
+SRC-02-01	(Старе джерело, доступ лише по посиланю, в лабораторні використав інше.) Оцінка Phoenix як провалу, приблизно 2,2 млрд канадських доларів незапланованих витрат і висновок про культуру, що применшувала погані новини	The Phoenix Pay Problem: Working Toward a Solution	Standing Senate Committee on National Finance	https://www.erenkrantz.com/Geeks/Therac-25/An%20Investigation%20of%20Therac-25%20Accidents.shtml	July 1993 (згідно з роздруківки)	2022
