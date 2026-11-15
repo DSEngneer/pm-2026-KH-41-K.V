@@ -1,5 +1,4 @@
 task_id,wbs_id,name,duration_days,predecessors,milestone,float_days,is_critical
-task_id,wbs_id,name,duration_days,predecessors,milestone,float_days,is_critical
 T-01,WBS-2.1,Збір і формалізація вимог,5,,false,0,true
 T-02,WBS-2.2,Проєктування архітектури та сценаріїв,5,T-01,false,0,true
 T-03,WBS-1.1,Ініціація та планування проєкту,2.5,T-01,false,31,false
